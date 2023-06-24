@@ -1,0 +1,10 @@
+.cards__item {
+    display: inline-block;
+    margin-right: 100px;
+    width: 240px;
+  }
+  .card__item:nth-child(3) {
+    /*display: inline-block;*/
+    margin-right: 0px;
+    width: 240px;
+  }

@@ -1,0 +1,7 @@
+.footer__column-link_social{
+    margin-bottom: 10px;
+    color: white;
+  }
+.footer__column-link_social:last-child{
+    margin-bottom: 0px;
+  }
